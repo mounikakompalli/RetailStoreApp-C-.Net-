@@ -1,0 +1,6 @@
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\bin\RetailStoreApp.dll.config
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\bin\RetailStoreApp.dll
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\bin\RetailStoreApp.pdb
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\obj\Debug\RetailStoreApp.csprojResolveAssemblyReference.cache
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\obj\Debug\RetailStoreApp.dll
+c:\users\manoj\documents\visual studio 2013\Projects\RetailStoreApp\RetailStoreApp\obj\Debug\RetailStoreApp.pdb
